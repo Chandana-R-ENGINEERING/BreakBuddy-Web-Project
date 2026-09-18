@@ -28,4 +28,4 @@ I created this project to improve my frontend web development skills and build a
 
 ## Author
 
-Chandana
+Chandana R
